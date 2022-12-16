@@ -1,0 +1,13 @@
+path {
+  color: #ffba00;
+  background-color: #ffba00;
+  fill: #ffba00;
+}
+text {
+  fill: #fff;
+  background-color: #fff;
+}
+
+.apexcharts-menu-icon svg path:first-child {
+  fill: none;
+}
